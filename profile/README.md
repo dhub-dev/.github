@@ -2,7 +2,8 @@
 
 The collaborative editor for Docusaurus content.
 
-[Visit our Website](https://dhub.dev)
+- [Website](https://dhub.dev)
+- [Create free account](https://app.dhub.dev)
 
 ## Description
 
